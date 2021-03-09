@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MAus.iml" filepath="$PROJECT_DIR$/.idea/MAus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebApp/.idea/WebApp.iml" filepath="$PROJECT_DIR$/../../WebApp/.idea/WebApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Scraping/firebaseAndExcel/.idea/firebaseAndExcel.iml" filepath="$PROJECT_DIR$/../../Scraping/firebaseAndExcel/.idea/firebaseAndExcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sample/.idea/sample.iml" filepath="$PROJECT_DIR$/../sample/.idea/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Scraping/scrap/.idea/scrap.iml" filepath="$PROJECT_DIR$/../../Scraping/scrap/.idea/scrap.iml" />
+    </modules>
+  </component>
+</project>
